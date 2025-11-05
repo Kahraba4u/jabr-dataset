@@ -2,16 +2,6 @@
 
 JabrDataset is the largest dataset of Arabic handwritten mathematical symbols. It is designed to support research and development in handwriting recognition, OCR, and machine learning for Arabic mathematics. The dataset provides a wide variety of handwritten samples, making it a valuable resource for academic studies, Al training, and educational technology
 
-# 🧮 JabrDataset  
-
-
-## 📝 Overview
-
-**JabrDataset** is an extensive and valuable resource designed to support research and development in **handwriting recognition**, **Optical Character Recognition (OCR)**, and **machine learning** — specifically for **Arabic mathematics**.  
-It is currently the **largest dataset of Arabic handwritten mathematical symbols**, providing a rich and diverse collection of samples.
-
----
-
 ##  Key Features and Collection Methodology
 
 The dataset was meticulously collected from a wide variety of **handwritten notebooks** contributed by a diverse group of **students and teachers** across different **age groups**.  
@@ -39,7 +29,7 @@ The dataset will continue to grow, expanding in **scale and diversity**, to bett
 
 ---
 
-## 💻 Target Applications
+## Target Applications
 
 The dataset is ideal for:
 
@@ -49,7 +39,7 @@ The dataset is ideal for:
 
 ---
 
-## 📁 Example Folder Structure
+##  Folder Structure
 
 ```bash
 JabrDataset/
@@ -74,25 +64,24 @@ JabrDataset/
     ├── minus/
     ├── equal/
     └── ...
-
-Tools and Technologies Used
+```
+## Tools and Technologies Used
 Python – for preprocessing, segmentation, and clustering
 OpenCV / PIL – for image handling and processing
 NumPy / Pandas – for data organization and analysis
 
-Citation
+## Citation
 If you use this dataset in your research or project, please cite it as:
 Hashedi, A. (2025). JabrDataset: The Largest Arabic Handwritten Mathematical Symbols Dataset.
 GitHub Repository
 
-License
+## License
 
 This dataset is released under the MIT License
-.
 You are free to use, modify, and distribute it for research and educational purposes.
 
-🌐 Links
+## Links
 
 🔗 GitHub Repository: https://github.com/Kahraba4u/jabr-dataset/
 
-📫 Contact: your.email@example.com
+📫 Contact: JabrApp@outlook.com
